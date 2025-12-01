@@ -1,0 +1,9 @@
+{
+  "model_type": "open-voice-detect",
+  "architectures": ["OpenVoiceDetect"],
+  "input_size": 128,
+  "hidden_size": 64,
+  "num_classes": 2,
+  "dropout": 0.3,
+  "task": "audio-classification"
+}
